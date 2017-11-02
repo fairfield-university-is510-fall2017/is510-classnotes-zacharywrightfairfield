@@ -1,6 +1,6 @@
 # IS510-dbp-classnotes
 
-Use this repository as a scratchpad as you follow along with the class lectures. The `Schema` folder contains the SQL files for all of the Kroenke & Auer textbook examples.
+Use this repository as a scratchpad as you follow along with the class lectures. The `Schemas` folder contains the SQL files for all of the Kroenke & Auer textbook examples.
 
 A few tips ...
 * Organize your code files by chapter and database. That will help you identify where the code came from. A `Chapter_2_notes.ipynb` notebook file is included here as an example to get you started. It is pre-configured for the Cape Codd Outdoor database from chapter 2 of the textbook.
