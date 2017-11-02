@@ -8,6 +8,8 @@
 /*																				*/
 /********************************************************************************/
 
+CREATE DATABASE `cape_codd`; /* Added by chuntley */
+
 USE cape_codd;
 
 CREATE TABLE RETAIL_ORDER (
